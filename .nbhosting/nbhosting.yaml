@@ -1,0 +1,5 @@
+builds:
+  - id: slides
+    name: Slides
+    description: Slides HTML
+    external_url: https://cpp.bmarchand.fr/
